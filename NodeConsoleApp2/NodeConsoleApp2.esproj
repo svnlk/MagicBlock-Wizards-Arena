@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/1.0.3653345">
+  <ItemGroup>
+    <Folder Include="models\" />
+  </ItemGroup>
+</Project>
